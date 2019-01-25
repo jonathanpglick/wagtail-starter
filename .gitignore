@@ -1,0 +1,7 @@
+__pycache__/
+*.DS_Store
+*.py[cod]
+*$py.class
+node_modules
+/media/
+/media_private/
